@@ -1,8 +1,6 @@
 # Hi there 👋
 
-✨**_My GitHub profile_** ✨
-
-[<img align="left" alt="HTML5" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Facebook_New_Logo_%282015%29.svg/1200px-Facebook_New_Logo_%282015%29.svg.png"/>](https://www.facebook.com/profile.php?id=100001746596766)
+✨**_My GitHub profile_** ✨ [<img align="left" alt="HTML5" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Facebook_New_Logo_%282015%29.svg/1200px-Facebook_New_Logo_%282015%29.svg.png"/>](https://www.facebook.com/profile.php?id=100001746596766)
 
 
 
