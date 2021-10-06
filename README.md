@@ -2,8 +2,8 @@
 
 ✨**_My GitHub profile_** ✨
 
-[<img align="center" alt="facebook" width="50px" src="https://cdn.freebiesupply.com/logos/large/2x/facebook-icon-white-logo-png-transparent.png"/>](https://www.facebook.com/profile.php?id=100001746596766)
-[<img align="center" alt="linkedin" width="50px" src="https://www.freeiconspng.com/uploads/linkedin-icon-27.png"/>](https://www.linkedin.com/in/vitaliy-yakovlev-113345222/)
+<!-- [<img align="center" alt="facebook" width="50px" src="https://cdn.freebiesupply.com/logos/large/2x/facebook-icon-white-logo-png-transparent.png"/>](https://www.facebook.com/profile.php?id=100001746596766)
+[<img align="center" alt="linkedin" width="50px" src="https://www.freeiconspng.com/uploads/linkedin-icon-27.png"/>](https://www.linkedin.com/in/vitaliy-yakovlev-113345222/) -->
 
 
 
