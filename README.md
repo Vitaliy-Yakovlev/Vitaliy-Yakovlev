@@ -2,7 +2,7 @@
 
 ✨**_My GitHub profile_** ✨
 
-[<img align="center" alt="facebook" width="100px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ9_BOtuRaSB63sOJrIOmUjlFvaJbm7qWxEA&usqp=CAU"/>](https://www.facebook.com/profile.php?id=100001746596766)
+[<img align="center" alt="facebook" width="100px" src="https://cdn.freebiesupply.com/logos/large/2x/facebook-icon-white-logo-png-transparent.png"/>](https://www.facebook.com/profile.php?id=100001746596766)
 
 
 
