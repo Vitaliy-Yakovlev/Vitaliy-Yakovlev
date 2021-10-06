@@ -3,6 +3,7 @@
 ✨**_My GitHub profile_** ✨
 
 [<img align="center" alt="facebook" width="50px" src="https://cdn.freebiesupply.com/logos/large/2x/facebook-icon-white-logo-png-transparent.png"/>](https://www.facebook.com/profile.php?id=100001746596766)
+[<img align="center" alt="linkedin" width="50px" src="https://icon-library.com/images/linkedin-image-icon/linkedin-image-icon-4.jpg"/>](https://www.facebook.com/profile.php?id=100001746596766)
 
 
 
