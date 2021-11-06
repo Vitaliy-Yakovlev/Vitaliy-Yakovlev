@@ -39,18 +39,15 @@
 <img alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 ---
-[![Github stats](https://github-readme-stats.vercel.app/api?username=Vitaliy-Yakovlev&theme=gotham&show_icons=true&include_all_commits=true)](https://github.com/Vitaliy-Yakovlev)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vitaliy-Yakovlev&theme=gotham&layout=compact)](https://github.com/Vitaliy-Yakovlev)
---
 
 <a href="https://github.com/Vitaliy-Yakovlev">
-  <img width="250px" align="center" src="https://github-readme-stats.vercel.app/api?username=Vitaliy-Yakovlev&theme=gotham&show_icons=true&include_all_commits=true" />
+  <img width="350px" height='300px' align="center" src="https://github-readme-stats.vercel.app/api?username=Vitaliy-Yakovlev&theme=gotham&show_icons=true&include_all_commits=true" />
 </a>
 <a href="https://github.com/Vitaliy-Yakovlev">
-  <img width="250px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitaliy-Yakovlev&theme=gotham&layout=compact" />
+  <img width="350px" height='300px' align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitaliy-Yakovlev&theme=gotham&layout=compact" />
 </a>
 
+---
 
 
 
