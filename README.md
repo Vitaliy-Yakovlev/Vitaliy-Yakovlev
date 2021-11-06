@@ -30,6 +30,7 @@
    <img align="left" alt="json" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png"/>
 
    <img align="left" alt="git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>
+   
 
    <img align="left" alt="markdown" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png"/>
 
@@ -42,6 +43,14 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vitaliy-Yakovlev&theme=gotham&layout=compact)](https://github.com/Vitaliy-Yakovlev)
 --
+
+<a href="https://github.com/Vitaliy-Yakovlev/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?Vitaliy-Yakovlev=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/Vitaliy-Yakovlev/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?Vitaliy-Yakovlev=anuraghazra&repo=convoychat" />
+</a>
+
 
 
 
