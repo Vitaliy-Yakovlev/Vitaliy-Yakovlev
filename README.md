@@ -44,11 +44,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vitaliy-Yakovlev&theme=gotham&layout=compact)](https://github.com/Vitaliy-Yakovlev)
 --
 
-<a href="https://github.com/Vitaliy-Yakovlev/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?Vitaliy-Yakovlev=anuraghazra&repo=github-readme-stats" />
+<a href="https://github.com/Vitaliy-Yakovlev">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Vitaliy-Yakovlev&theme=gotham&show_icons=true&include_all_commits=true" />
 </a>
-<a href="https://github.com/Vitaliy-Yakovlev/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?Vitaliy-Yakovlev=anuraghazra&repo=convoychat" />
+<a href="https://github.com/Vitaliy-Yakovlev">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitaliy-Yakovlev&theme=gotham&layout=compact" />
 </a>
 
 
