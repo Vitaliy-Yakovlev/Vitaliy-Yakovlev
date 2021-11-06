@@ -40,5 +40,7 @@
 ---
 [![Github stats](https://github-readme-stats.vercel.app/api?username=Vitaliy-Yakovlev&theme=gotham&show_icons=true&include_all_commits=true)](https://github.com/transformator98/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vitaliy-Yakovlev&theme=gotham&layout=compact)](https://github.com/Vitaliy-Yakovlev/github-readme-stats)
 --
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?Vitaliy-Yakovlev=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
