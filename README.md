@@ -37,7 +37,7 @@
 <!-- <img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /> -->
 <img align="left" alt="GitHub" width="32px" src="https://www.iconninja.com/files/660/941/85/website-social-github-logo-brand-social-network-icon.svg" />
 
-<img alt="Visual Studio Code" width="32px" src="https://icon-library.com/images/github-icon-svg/github-icon-svg-13.jpg" />
+<img alt="Visual Studio Code" width="32px" src="" />
 
 ---
 
