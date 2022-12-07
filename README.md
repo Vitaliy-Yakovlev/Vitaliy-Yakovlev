@@ -42,10 +42,10 @@
 ---
 
 <a href="https://github.com/Vitaliy-Yakovlev">
-  <img width="350px" height='150px' align="center" src="https://github-readme-stats.vercel.app/api?&username=Vitaliy-Yakovlev&theme=gotham&show_icons=true&include_all_commits=true" />
+  <img width="350px" height='140px' align="center" src="https://github-readme-stats.vercel.app/api?&username=Vitaliy-Yakovlev&theme=gotham&show_icons=true&include_all_commits=true" />
 </a>
 <a href="https://github.com/Vitaliy-Yakovlev">
-  <img width="350px" height='150px' align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitaliy-Yakovlev&theme=gotham&layout=compact" />
+  <img width="350px" height='140px' align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitaliy-Yakovlev&theme=gotham&layout=compact" />
 </a>
 
 ---
