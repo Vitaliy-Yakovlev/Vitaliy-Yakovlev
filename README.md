@@ -47,9 +47,10 @@
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
 
-
+<!--
 ### 📈 My activity on GitHub
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vitaliy-Yakovlev&show_icons=true&rank_icon=github&theme=gotham)](https://github.com/Vitaliy-Yakovlev)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vitaliy-Yakovlev&layout=donut&theme=gotham)](https://github.com/Vitaliy-Yakovlev)
 
+-->
