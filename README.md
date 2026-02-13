@@ -53,3 +53,6 @@
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vitaliy-Yakovlev&show_icons=true&rank_icon=github&theme=gotham)](https://github.com/Vitaliy-Yakovlev)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vitaliy-Yakovlev&layout=donut&theme=gotham)](https://github.com/Vitaliy-Yakovlev)
 
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
